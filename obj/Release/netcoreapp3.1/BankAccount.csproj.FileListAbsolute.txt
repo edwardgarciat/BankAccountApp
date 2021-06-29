@@ -1,0 +1,12 @@
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/bin/Release/netcoreapp3.1/BankAccount.deps.json
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/bin/Release/netcoreapp3.1/BankAccount.runtimeconfig.json
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/bin/Release/netcoreapp3.1/BankAccount.runtimeconfig.dev.json
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/bin/Release/netcoreapp3.1/BankAccount.dll
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/bin/Release/netcoreapp3.1/BankAccount.pdb
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.csprojAssemblyReference.cache
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.AssemblyInfoInputs.cache
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.AssemblyInfo.cs
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.csproj.CoreCompileInputs.cache
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.dll
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.pdb
+/Users/edwardisidrogarciataveras/Projects/BankAccount/BankAccount/obj/Release/netcoreapp3.1/BankAccount.genruntimeconfig.cache
